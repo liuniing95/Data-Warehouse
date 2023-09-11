@@ -14,7 +14,7 @@ Building an ETL pipeline that extracts their data from S3, stages them in Redshi
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+i used a number of open source projects to work properly:
 
 - python 3.11
 - AWS S3
